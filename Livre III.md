@@ -1,10 +1,12 @@
-Livre III
+# Livre III
 
-\footnote{Tout d'abord, on doit établir quelques conventions de notation abrégées comme indiqué ci-dessous:
+Tout d'abord, on doit établir quelques conventions de notation abrégées comme indiqué ci-dessous:
+```
 I, Le symbole ``RP'' c'est pour ``Résumé du Paragraphe'';
-II, La abréviation ``LIII-1-424b22-RP'' se réfère au résumé du passage commençant à 424b22(marqué par le texte grec ancien) dans le livre III, chapitre 1.}
+II, La abréviation ``LIII-1-424b22-RP'' se réfère au résumé du passage commençant à 424b22(marqué par le texte grec ancien) dans le livre III, chapitre 1.
+```
 
-1. De l'existence d'un sixième sens. Première fonction du sens commun
+## 1. De l'existence d'un sixième sens. Première fonction du sens commun
 
 	LIII-1-424b22-RP: Pas de sixième sens. 
 
