@@ -7,6 +7,7 @@ The following displays some useful information about the different versions:
 
 1. *English Trans.: Aristotle De Anima with translation, introduction and notes by Robert Drew Hicks, 1907. (regarded as a monumental edition of Aristotle's "De Anima".)*
 
-2. *French trans.: Aristote De l'Âme - Texte établi par A. Jannone & Traduction et notes de E. Barbotin, Société d'édition «Les Belles Lettres», 1966, dans le Collection des Universités & de France publiée sous le patronage de l'Association Guillaume Budé.*
+2. *French trans.: Aristote De l'Âme[^footnote] - Texte établi par A. Jannone & Traduction et notes de E. Barbotin, Société d'édition «Les Belles Lettres», 1966, dans le Collection des Universités & de France publiée sous le patronage de l'Association Guillaume Budé.* 
+[^footnote]: The texts that appear in the document ''Livre III.md'' are just taken from this French translations.
 
 3. *German trans.: Aristoteles-Über die Seele-De anima, Griechisch - Deutsch, Übersetzt, mit einer Einleitung und Anmerkungen herausgegeben von Klaus Corcilius, Felix Meiner Verlag, Hamburg, 2017.*
