@@ -1,5 +1,5 @@
 # De Anima
-The reading of Aristotle's "De anima" is organized by a long-running discussion group with a seminar flavour. The text commonly used in the reading group is the bilingual Chinese and Greek version published by Peking University Press in 2021 and translated by Chen Wei. However, I personally use one of the French translations of "De Anima" more often, along with the authoritative edited text in the original ancient Greek by W. D. Ross, the English translation by R. D. Hicks, and a more recent German translation by Klaus Corcilius.
+The reading of Aristotle's "De anima" is organized by a long-running discussion group with a seminar flavour. The text commonly used in the reading group is the bilingual Chinese and Greek version published by Peking University Press in 2021 and translated by Chen Wei. However, I personally use one of the French translations of "De Anima" more often, along with the authoritative critical edition(Greek text) by W. D. Ross, the English translation by R. D. Hicks, and a more recent German translation by Klaus Corcilius.
 
 The following displays some useful information about the different versions:
 
