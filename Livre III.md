@@ -1,6 +1,6 @@
 # Livre III
 
-## 1. De l'existence d'un sixième sens. Première fonction du sens commun
+## §1. De l'existence d'un sixième sens. Première fonction du sens commun
 
 ### LIII-1-424b22-RP[^footnote]: Pas de sixième sens. 
 
@@ -8,6 +8,7 @@
     Tout d'abord, on doit établir quelques conventions de notation abrégées comme indiqué ci-dessous:
     1. Le symbole, ''RP'' c'est pour ''Résumé du Paragraphe'';
     2. La abréviation ''LIII-1-424b22-RP'' se réfère au résumé du passage commençant à 424b22(marqué par le texte grec ancien) dans le livre III,         chapitre 1.
+    3. Dans le présent document, on utilise le symbole "§" pour représenter un chapitre.
 
 Qu'il n'existe pas d'autre sens que les cinq déjà étudiés (je veux dire la vue, l'ouïe, l'odorat, le goût, le toucher), on pourra s'en convaincre comme suit1. Admettons, en effet, que tout ce qui est objet de perception tactile nous tombe effectivement sous le sens ( car toutes les qualités des tangibles en tant que tels nous sont rendues sensibles par le toucher)2, et que nécessairement si quelque sensation nous manque, c'est qu'un organe , sensoriel nous fait aussi défaut. - D'autre part, toutes , les qualités perçues par contact direct, c'est le toucher ' qui nous les rend sensibles - sens dont nous sommes doués; par contre toutes les qualités perçues à travers des milieux et non par contact direct, nous les sentons grâce aux corps simples, je veux dire l'air et l'eau. - Or les choses se passent de telle sorte que si le même milieu rend perceptibles plusieurs sensibles différents par le genre, le sujet doué de l'organe correspondant percevra nécessairement les deux sensibles - (par exemple, si l'organe est composé d'air, puisque l'air est à la fois le milieu du son et de la couleur). Si par contre plusieurs milieux rendent perceptible un même sensible - telle la couleur dont les milieux sont l'air et l'eau (tous deux diaphanes), alors le sujet doué d'un organe ne contenant que l'un ou l'autre de ces milieux percevra le sensible transmis en l'un et en l'autre. - Or, parmi les corps simples, deux d'entre eux seulement constituent les organes sensoriels: l'air et l'eau (la pupille est faite d'eau, l'ouïe d'air, l'odorat de l'une et de l'autre). Le feu n'appartient à aucun organe ou est commun à tous (car aucun être, sans chaleur, ne peut sentir). La terre enfin ne se trouve en aucun organe, ou bien c'est surtout dans le toucher qu'elle entre en composition. Par suite, il en résulterait qu'aucun organe n'existe hormis ceux qui sont composés d'eau et d'air. Or en fait ces derniers sont bien dévolus à certains animaux. Toutes les sensations possibles sont donc éprouvées par les animaux adultes et qui ne sont pas incomplets; la taupe même, on le constate, a les yeux sous la peau. Par conséquent, s'il n'existe pas d'autre corps simple ni de qualité étrangère aux corps de ce monde, aucun sens ne saurait nous manquer.
 
@@ -20,7 +21,7 @@ Mais il est impossible aussi que les sensibles communs relèvent d'un organe par
 
 On pourrait se demander à quelle fin nous avons plusieurs sens et non pas un seul2. Ne serait-ce pas pour que ne passent pas inaperçus les sensibles dérivés et communs, tels le mouvement, la grandeur, le nombre ? Si en effet la vue était notre seul sens et qu'elle eût pour objet le blanc3, les sensibles communs nous échapperaient plus facilement : nous croirions que tous ces sensibles se confondent du fait que couleur et grandeur vont de pair. Mais en réalité, puisqu'un autre sensible propre contient lui aussi les sensibles communs, il appert que chacun de ceux-ci est une qualité spécifique4.
 
-## 2. Le sens commun deuxième et troisième fonctions
+## §2. Le sens commun: deuxième et troisième fonctions
 
 ### LIII-1-425b12-RP: Le sens commun rend la sensation consciente.
 
