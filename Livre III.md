@@ -1,4 +1,4 @@
-# Livre III
+# Livre III - Texte original
 
 ## §1. De l'existence d'un sixième sens. Première fonction du sens commun
 
