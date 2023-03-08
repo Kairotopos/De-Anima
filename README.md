@@ -3,7 +3,7 @@ The reading of Aristotle's "De anima" is organized by a long-running discussion 
 
 The following displays some useful information about the different versions:
 
-0. *Greek text: Aristotelis De anima. William David Ross. Oxford University Press, 1956)
+0. *Greek text: Aristotelis De anima. William David Ross. Oxford University Press, 1956)*
 
 1. *English Trans.: Aristotle De Anima with translation, introduction and notes by Robert Drew Hicks, 1907. (regarded as a monumental edition of Aristotle's "De Anima".)*
 
